@@ -10,4 +10,4 @@ Hola mi nombre es Melqui, tengo 24 años, actualmente estoy estudiando y trabaja
 
 ## *Contacto*
 
-Me puedes encontrar como [github.com/Melqui-0]
+Me puedes encontrar como [https://github.com/Melqui-0]
